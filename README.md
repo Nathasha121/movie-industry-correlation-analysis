@@ -66,7 +66,7 @@ The correlation heatmap provides a visual representation of the relationships be
 
 A scatter plot with a regression line was used to examine the relationship between movie budget and gross revenue.
 
-![Budget vs Gross Revenue](visualizations/budget_vs_gross.png)
+![Budget vs Gross Revenue](visualizations/budget_vs_gross_seaborn.png)
 
 ## 💡 Key Insights
 
